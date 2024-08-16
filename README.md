@@ -9,3 +9,5 @@ Visual Studio 2022
 Binary Search Tree
 
 Recursive function
+
+student.txt //sample input
